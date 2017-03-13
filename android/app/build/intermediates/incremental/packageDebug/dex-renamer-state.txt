@@ -1,0 +1,4 @@
+#Mon Mar 13 21:13:33 AMT 2017
+base.0=C\:\\xampp\\htdocs\\toursDeal\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\xampp\\htdocs\\toursDeal\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
